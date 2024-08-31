@@ -6,7 +6,8 @@
 package ejercicio_tres.primera_forma;
 
 /**
- *
+ * Vamos a permitir que se puedan columpiar dos loros, siempre y cuando uno sea macho y otro
+ * hembra
  * @author Fernando GJ
  */
 public class Init {
